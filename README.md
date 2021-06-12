@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Qib10
-- 👀 I’m interested in Operating System but I don't understand C / C ++ language.
+- 👀 I’m interested in Operating System but I don't understand C / C ++ language.😅
